@@ -1,6 +1,7 @@
 {
     "name": "minond/cache",
     "description": "Cache",
+    "license": "GPL-2.0+",
 
     "authors": [
         {
