@@ -15,8 +15,8 @@
     },
 
     "autoload": {
-        "psr-0": {
-            "Efficio": "src/"
+        "psr-4": {
+            "Efficio\\": "src/"
         }
     }
 }
